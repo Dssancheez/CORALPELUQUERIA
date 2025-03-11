@@ -33,7 +33,7 @@ nav {
     padding: 10px 0; /* Espaciado interno */
     border-radius: 5px; /* Bordes redondeados */
     justify-content: space-around; /* Adjusts spacing between items */
-    flex-wrap: wrap;
+    flex-wrap: wrap; /* Allows items to wrap on smaller screens */
 }
 nav a {
     color: #EFB810; /* Color del texto */
